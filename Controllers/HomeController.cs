@@ -16,6 +16,8 @@ namespace FancyImageUploader.Controllers
         //
         // GET: /Home/Index
 
+        //Comment from Anton Shelest: "Fuckin' yeah!!!"
+
         public ActionResult Index()
         {
             var images = new ImagesModel();
